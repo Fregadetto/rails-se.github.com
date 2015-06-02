@@ -479,6 +479,16 @@ Långt ifrån komplett! [Lägg gärna till](https://github.com/rails-se/rails-se
      </ul>
   </li>
 </ul>
+## Vara
+
+<ul>
+  <li>
+    <a href="http://hollow-industries.com">Hollow Industries</a>
+    <ul>
+      <li>Fredrik Ottedag</li>
+     </ul>
+  </li>
+</ul>
 
 ## Växjö
 
